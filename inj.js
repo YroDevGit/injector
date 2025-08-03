@@ -1,4 +1,6 @@
-window.addEventListener("DOMContentLoaded", function () {
+/**
+ * 
+ window.addEventListener("DOMContentLoaded", function () {
    mypost({
         url: `${apiURL}/special`,
         method: "GET",
@@ -10,3 +12,5 @@ window.addEventListener("DOMContentLoaded", function () {
         }
    });
 });
+ * 
+ */
