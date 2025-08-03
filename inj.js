@@ -1,6 +1,6 @@
 window.addEventListener("DOMContentLoaded", function () {
    mypost({
-        url: `${baseURL}/special`,
+        url: `${apiURL}/special`,
         method: "GET",
         success: function(response){
             console.log(response);
