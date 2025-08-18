@@ -1,3 +1,4 @@
+ /** 
  window.addEventListener("DOMContentLoaded", function () {
    mypost({
         url: `${apiURL}/special`,
@@ -10,3 +11,4 @@
         }
    });
 });
+**/
